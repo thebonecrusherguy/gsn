@@ -3,7 +3,14 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Astor Pl",
+        
+        "line": "4-6-6 Express",
+        "objectid": "1",
+        "notes": "4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
+      },
+
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -14,7 +21,13 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+     "properties": {
+      "name": "Canal St",
+      
+      "line": "4-6-6 Express",
+      "objectid": "2",
+      "notes": "4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
+    },
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -23,27 +36,4 @@
         ]
       }
     },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.38932800292969,
-          23.810475327766568
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.50262451171875,
-          23.828063799808113
-        ]
-      }
-    }
-  ]
-}
+   
