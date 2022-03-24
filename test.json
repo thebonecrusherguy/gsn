@@ -5,35 +5,18 @@
       "type": "Feature",
       "properties": {
         "name": "Astor Pl",
-        
+        "url": "http://web.mta.info/nyct/service/",
         "line": "4-6-6 Express",
         "objectid": "1",
         "notes": "4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
       },
-
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.46554565429688,
-          23.78471648062244
+          90.41473388671875,
+          23.753924821039778
         ]
       }
-    },
-    {
-      "type": "Feature",
-     "properties": {
-      "name": "Canal St",
-      
-      "line": "4-6-6 Express",
-      "objectid": "2",
-      "notes": "4 nights, 6-all times, 6 Express-weekdays AM southbound, PM northbound"
-    },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          90.47721862792969,
-          23.746382895774087
-        ]
-      }
-    },
-   
+    }
+  ]
+}
